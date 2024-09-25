@@ -12,3 +12,4 @@
 |      **10**     |                H:               |               H:\               |
 |      **11**     |                C:               |               C:\               |
 
+![Rutas foto](img/Rutas.png)
