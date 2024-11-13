@@ -1,0 +1,13 @@
+1. 
+ a. SET PATH=%PATH%;[Ruta al .bat]
+ b. SET PATH=[Ruta al .bat];%PATH%
+
+2.
+    a. ECHO %PATH%
+    b. SET OLDPATH=%PATH%
+    c. SET PATH=C:\
+    d. No van porque algunos no son parte del programa cmd
+    e. SET PATH=%OLDPATH%
+    f. No se puede
+    g. 
+
