@@ -6,7 +6,7 @@
     
     Abrimos la consola e introducimos el comando `diskpart` para poder manipular los discos y particiones, con el comando `list disk` veremos que discos hay disponibles
     
-    ![VirtualBoxVM_iaqZz979fL.png](/img/Gestion%20de%20la%20bcd//img/Gestion%20de%20la%20bcd/VirtualBoxVM_iaqZz979fL.png)
+    ![VirtualBoxVM_iaqZz979fL.png](/img/Gestion%20de%20la%20bcd/VirtualBoxVM_iaqZz979fL.png)
     
     Seleccionamos el disco correspondiente con `select disk Nº`y vemos que particiones hay disponibles con el comando `list partition`
     
