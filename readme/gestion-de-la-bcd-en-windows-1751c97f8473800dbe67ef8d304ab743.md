@@ -123,4 +123,4 @@ Ahora podemos comparar el estado del bcd despues de usar el metodo con el backup
 ![ytRbLJ33rb.png](/img/Gestion%20de%20la%20bcd/ytRbLJ33rb.png)
 
 Hay muchos cambios pero el principal para mi es que mediante el comando `bootrec` todas las otras BCD que habiamos creado antes como safeboot y recovery han desparecido.
-bruh
+bruh'nt
